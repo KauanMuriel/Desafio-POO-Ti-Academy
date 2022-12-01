@@ -1,0 +1,14 @@
+C:\Users\kauan.silva\source\repos\Ti-Academy\ExercicioAnimais\ExercicioAnimais\bin\Debug\ExercicioAnimais.exe.config
+C:\Users\kauan.silva\source\repos\Ti-Academy\ExercicioAnimais\ExercicioAnimais\bin\Debug\ExercicioAnimais.exe
+C:\Users\kauan.silva\source\repos\Ti-Academy\ExercicioAnimais\ExercicioAnimais\bin\Debug\ExercicioAnimais.pdb
+C:\Users\kauan.silva\source\repos\Ti-Academy\ExercicioAnimais\ExercicioAnimais\obj\Debug\ExercicioAnimais.csprojAssemblyReference.cache
+C:\Users\kauan.silva\source\repos\Ti-Academy\ExercicioAnimais\ExercicioAnimais\obj\Debug\ExercicioAnimais.csproj.CoreCompileInputs.cache
+C:\Users\kauan.silva\source\repos\Ti-Academy\ExercicioAnimais\ExercicioAnimais\obj\Debug\ExercicioAnimais.exe
+C:\Users\kauan.silva\source\repos\Ti-Academy\ExercicioAnimais\ExercicioAnimais\obj\Debug\ExercicioAnimais.pdb
+C:\Users\kauan.silva\source\repos\POO\Exercicios\ExercicioAnimais\ExercicioAnimais\bin\Debug\ExercicioAnimais.exe.config
+C:\Users\kauan.silva\source\repos\POO\Exercicios\ExercicioAnimais\ExercicioAnimais\bin\Debug\ExercicioAnimais.exe
+C:\Users\kauan.silva\source\repos\POO\Exercicios\ExercicioAnimais\ExercicioAnimais\bin\Debug\ExercicioAnimais.pdb
+C:\Users\kauan.silva\source\repos\POO\Exercicios\ExercicioAnimais\ExercicioAnimais\obj\Debug\ExercicioAnimais.csprojAssemblyReference.cache
+C:\Users\kauan.silva\source\repos\POO\Exercicios\ExercicioAnimais\ExercicioAnimais\obj\Debug\ExercicioAnimais.csproj.CoreCompileInputs.cache
+C:\Users\kauan.silva\source\repos\POO\Exercicios\ExercicioAnimais\ExercicioAnimais\obj\Debug\ExercicioAnimais.exe
+C:\Users\kauan.silva\source\repos\POO\Exercicios\ExercicioAnimais\ExercicioAnimais\obj\Debug\ExercicioAnimais.pdb
